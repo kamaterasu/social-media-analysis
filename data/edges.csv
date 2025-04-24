@@ -1,0 +1,47 @@
+support,confidence,lift,Source,Target
+0.2,1.0,2.5,Fries,Burger
+0.2,0.5,2.5,Burger,Fries
+0.2,1.0,2.5,Ice Cream,Burger
+0.2,0.5,2.5,Burger,Ice Cream
+0.2,0.5,2.5,Pizza,Chicken Wings
+0.2,1.0,2.5,Chicken Wings,Pizza
+0.2,0.33333333333333337,1.6666666666666667,Soft Drink,Chicken Wings
+0.2,1.0,1.6666666666666667,Chicken Wings,Soft Drink
+0.2,1.0,5.0,Pasta,Garlic Bread
+0.2,1.0,5.0,Garlic Bread,Pasta
+0.2,1.0,5.0,Wine,Garlic Bread
+0.2,1.0,5.0,Garlic Bread,Wine
+0.2,0.33333333333333337,1.6666666666666667,Soft Drink,Ice Cream
+0.2,1.0,1.6666666666666667,Ice Cream,Soft Drink
+0.2,1.0,5.0,Pasta,Wine
+0.2,1.0,5.0,Wine,Pasta
+0.2,0.5,2.5,Pizza,Salad
+0.2,1.0,2.5,Salad,Pizza
+0.4,1.0,1.6666666666666667,Pizza,Soft Drink
+0.4,0.6666666666666667,1.6666666666666667,Soft Drink,Pizza
+0.2,0.33333333333333337,1.6666666666666667,Soft Drink,Salad
+0.2,1.0,1.6666666666666667,Salad,Soft Drink
+0.2,1.0,2.5,"Soft Drink, Ice Cream",Burger
+0.2,1.0,5.0,"Soft Drink, Burger",Ice Cream
+0.2,1.0,1.6666666666666667,"Ice Cream, Burger",Soft Drink
+0.2,0.33333333333333337,1.6666666666666667,Soft Drink,"Ice Cream, Burger"
+0.2,1.0,5.0,Ice Cream,"Soft Drink, Burger"
+0.2,0.5,2.5,Burger,"Soft Drink, Ice Cream"
+0.2,0.5,2.5,"Pizza, Soft Drink",Chicken Wings
+0.2,1.0,1.6666666666666667,"Pizza, Chicken Wings",Soft Drink
+0.2,1.0,2.5,"Soft Drink, Chicken Wings",Pizza
+0.2,0.5,2.5,Pizza,"Soft Drink, Chicken Wings"
+0.2,0.33333333333333337,1.6666666666666667,Soft Drink,"Pizza, Chicken Wings"
+0.2,1.0,2.5,Chicken Wings,"Pizza, Soft Drink"
+0.2,1.0,5.0,"Pasta, Wine",Garlic Bread
+0.2,1.0,5.0,"Pasta, Garlic Bread",Wine
+0.2,1.0,5.0,"Wine, Garlic Bread",Pasta
+0.2,1.0,5.0,Pasta,"Wine, Garlic Bread"
+0.2,1.0,5.0,Wine,"Pasta, Garlic Bread"
+0.2,1.0,5.0,Garlic Bread,"Pasta, Wine"
+0.2,0.5,2.5,"Pizza, Soft Drink",Salad
+0.2,1.0,1.6666666666666667,"Pizza, Salad",Soft Drink
+0.2,1.0,2.5,"Soft Drink, Salad",Pizza
+0.2,0.5,2.5,Pizza,"Soft Drink, Salad"
+0.2,0.33333333333333337,1.6666666666666667,Soft Drink,"Pizza, Salad"
+0.2,1.0,2.5,Salad,"Pizza, Soft Drink"
